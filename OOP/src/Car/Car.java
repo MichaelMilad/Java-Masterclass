@@ -1,4 +1,6 @@
-public class Car {
+package Car;
+
+class Car {
 
     private String make = "Tesla";
     private String model = "Model X";

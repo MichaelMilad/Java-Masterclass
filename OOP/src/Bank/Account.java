@@ -1,3 +1,5 @@
+package Bank;
+
 public class Account {
     private String accountNumber;
     private String customerName;

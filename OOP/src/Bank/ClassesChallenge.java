@@ -1,3 +1,5 @@
+package Bank;
+
 public class ClassesChallenge {
     public static void main(String[] args) {
         try {
