@@ -12,6 +12,7 @@ public class SalariedEmployee extends Employee {
     }
 
     public void retire() {
+        this.terminate("12/12/2020");
         System.out.println("Employee " + this.name + " Has retired !");
     }
 }
